@@ -1,8 +1,0 @@
-public with sharing class BotService {
-
-    @InvocableMethod(label='Refresh OrderLines')
-    public static void refreshOrderLines(List<String> orderNumber) {
-        if (orderNumber != null && !orderNumber.isEmpty()) {
-            CRM_OrderLinesService.getOrderLinesByOrderName(orderNumber[0]);
-        }
-    }
