@@ -1,5 +1,5 @@
 # EinsteinBot_CheckOrderStatus
-To be used in the bot to check order status.
+<h1>To be used in the bot to check order status.</h1>
 
 <b>Some notes on the code:</b>
 • The public class OrderInput and OrderOutput are wrapper classes that include all the input and output variables. Each
