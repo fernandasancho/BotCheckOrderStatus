@@ -1,5 +1,6 @@
 # Bot_CheckOrderStatus
-<h1>To be used in the bot to check order status.</h1>
+Apex class Bot_GetOrderStatus provides a method to retrieve the status of orders based on input order numbers. 
+It queries Bot_Order__c records to fetch order details and constructs a list of order statuses for output.
 
 <b>Some notes on the code:</b>
 • The public class OrderInput and OrderOutput are wrapper classes that include all the input and output variables. Each
