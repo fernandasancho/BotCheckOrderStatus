@@ -1,4 +1,4 @@
-# EinsteinBot_CheckOrderStatus
+# Bot_CheckOrderStatus
 <h1>To be used in the bot to check order status.</h1>
 
 <b>Some notes on the code:</b>
